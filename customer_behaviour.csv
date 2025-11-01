@@ -1,0 +1,4 @@
+customer_id,segment,lifetime_value,churn_risk,region 
+C001,Premium, 15000,Low,North 
+C002, Standard,3000,High, South 
+C003,Premium, 12000,Low,North 

@@ -1,0 +1,61 @@
+# ===========================================
+# Python & Virtual Environment
+# ===========================================
+myenv/
+venv/
+.env
+*.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# ===========================================
+# Jupyter & Colab
+# ===========================================
+.ipynb_checkpoints/
+*.ipynb_save
+*.ipynb_checkpoint
+
+# ===========================================
+# IDEs & Editors
+# ===========================================
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ===========================================
+# OS Generated Files
+# ===========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================================
+# Distribution / Packaging
+# ===========================================
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# ===========================================
+# Cache / Temp
+# ===========================================
+.cache/
+tmp/
+temp/
+logs/
+*.log
+*.tmp
+
+# ===========================================
+# Ollama / Model-related (if local cache exists)
+# ===========================================
+ollama_models/
+*.bin

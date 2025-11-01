@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+pydantic
+databricks-sdk
+crewai
+crewai-tools
+litellm
