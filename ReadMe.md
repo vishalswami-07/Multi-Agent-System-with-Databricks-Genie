@@ -2,6 +2,9 @@
 ````markdown
 # 🧠 Multi-Agent System with Databricks Genie (CrewAI + Ollama)
 
+<img width="1919" height="861" alt="Screenshot 2025-11-01 164050" src="https://github.com/user-attachments/assets/71e8e4f9-a1db-4bfa-a27e-bb22b6397f7c" />
+
+
 This project implements a **multi-agent AI coordination system** designed to intelligently route analytical queries related to **Sales** and **Customers**.  
 It uses **CrewAI** for agent orchestration and **Ollama (Llama 3.2)** as the local language model backend.
 
