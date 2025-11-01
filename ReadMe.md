@@ -1,8 +1,7 @@
+<img width="1919" height="861" alt="Screenshot 2025-11-01 164050" src="https://github.com/user-attachments/assets/9736a25a-ecbb-42da-ba8f-68d20811baf4" />
 
 ````markdown
 # 🧠 Multi-Agent System with Databricks Genie (CrewAI + Ollama)
-
-<img width="1919" height="861" alt="Screenshot 2025-11-01 164050" src="https://github.com/user-attachments/assets/71e8e4f9-a1db-4bfa-a27e-bb22b6397f7c" />
 
 
 This project implements a **multi-agent AI coordination system** designed to intelligently route analytical queries related to **Sales** and **Customers**.  
